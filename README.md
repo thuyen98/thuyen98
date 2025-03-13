@@ -1,4 +1,8 @@
-# Hi, It's Thuyên ฅ^>⩊<^ ฅ
+<p align="center"><a href="https://www.linkedin.com/in/le-thuy-thuyen-nguyen-b38821169?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=iso_app"><img width="80%" alt="Hello, I'm Thuyên. ฅ^>⩊<^ ฅ!" src="./assets/gh-readme-header.png" /></a></p>
+ 
+ <br />
+
+
 
 <h2> 🚀 &nbsp;Working on some Tools</h2>
 <p align="left">
