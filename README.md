@@ -1,7 +1,7 @@
 ## Hello, I'm Thuyên ≽ܫ≼ !
 
 - 🎓 Post-graduate in Data Science, Statistics, and Actuarial Science #ParisSaclay.
-- 🦕 Apprentice at Insurance Company #Generali.
+- 🌱 Apprentice at Insurance Company #Generali.
 - 🐈 Passionate about learning, coding, reading, and miao-miao in my free time.
 - 🎀 Feel free to ask me about self-taught yoga.
 
